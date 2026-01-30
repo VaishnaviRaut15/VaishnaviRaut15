@@ -1,10 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact
+🔭 I’m currently working on academic and personal coding projects<br>
+👯 I’m looking to collaborate on beginner-friendly open-source projects<br>
+🤝 I’m looking for help with improving problem-solving and project structure<br>
+🌱 I’m currently learning Python, Machine Learning, and Data Science<br>
+💬 Ask me about Python, SQL, and basic ML concepts<br>
+⚡ Fun fact: I love learning new technologies and tools
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
